@@ -1,2 +1,4 @@
-# a-ulis
-Advanced Universal Lidar Interface Suit
+# Advanced Universal Lidar Interface Suite
+[Lidar] is a system that measures distance to a target by detecting light scattered by that target. Lidars have applications in geodesy, forestry, archaeology to name a few. In the Institute of Geophysics, Polish Academy of Sciences lidar is used in the field of atmospheric physics. Original software for lidar measurements called Universal Lidar Interface Suite – ULIS was unstable, causing a loss in quality of scientific data. One day I checked whether it is possible to create new software for data collection in the lidar laboratory and that’s how the A-ULIS was created. Without access to the code of the original software, I had to use reverse engineering techniques. Check [user's manual](https://github.com/MrSzymonello/a-ulis/blob/master/docs/AULIS-Manual_EN.pdf) for more details.
+
+[Lidar]: http://en.wikipedia.org/wiki/Lidar
